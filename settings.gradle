@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "sahnaoglu_ogulcan__rentalcar"
